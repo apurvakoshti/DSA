@@ -1,5 +1,3 @@
-package Arrays;
-
 public class rotateimage {
     public static int[][] rotate(int matrix[][]){
         //transpose of matrix

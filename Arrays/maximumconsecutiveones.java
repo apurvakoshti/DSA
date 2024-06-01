@@ -1,5 +1,3 @@
-package Arrays;
-
 public class maximumconsecutiveones {
     public static int findConsectiveOnes(int nums[]){
         int maximum=0;

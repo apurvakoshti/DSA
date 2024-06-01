@@ -1,5 +1,3 @@
-package Arrays;
-
 public class removeduplicatesfromsortedarray {
     public static int removeDuplicates(int numbers[]){
         int i=0;

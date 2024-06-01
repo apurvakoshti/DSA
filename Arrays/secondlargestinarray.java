@@ -1,5 +1,3 @@
-package Arrays;
-
 public class secondlargestinarray {
 
     public static int secondLargest(int numbers[]){

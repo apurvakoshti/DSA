@@ -1,5 +1,3 @@
-package Arrays;
-
 public class arrayissortedornot {
     public static boolean isSorted(int numbers[]){
         for(int i=1; i< numbers.length; i++){
@@ -10,7 +8,7 @@ public class arrayissortedornot {
         return true;
     }
     public static void main(String args[]){
-        int numbers[]={1,2,3,4};
+        int numbers[]={1,2,3,4,5};
         System.out.println(isSorted(numbers));
 
     }

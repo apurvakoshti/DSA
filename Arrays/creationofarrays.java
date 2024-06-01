@@ -1,5 +1,3 @@
-package Arrays;
-
 public class creationofarrays {
     public static void main(String args[]){
         //creation of arrays

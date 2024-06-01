@@ -1,5 +1,3 @@
-package Arrays;
-
 public class transposeofmatrix {
     public static int[][] transpose(int matrix[][]){
 

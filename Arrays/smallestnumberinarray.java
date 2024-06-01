@@ -1,5 +1,3 @@
-package Arrays;
-
 public class smallestnumberinarray {
     public static int smallest(int numbers[]){
         int smallest= Integer.MAX_VALUE;

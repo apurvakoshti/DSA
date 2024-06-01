@@ -1,5 +1,3 @@
-package Arrays;
-// iterative 
 public class binarysearch {
     public static int binarySearch(int numbers[], int key){
         int start=0;

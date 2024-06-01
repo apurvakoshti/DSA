@@ -1,5 +1,3 @@
-package Arrays;
-
 public class recursivebinarysearch {
     public static int binarySearch(int arr[], int start, int end, int target){
         if( start > end){

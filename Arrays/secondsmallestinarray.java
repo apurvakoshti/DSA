@@ -1,5 +1,3 @@
-package Arrays;
-
 public class secondsmallestinarray {
     public static int secondSmallest(int numbers[]){
         int smallest = numbers[0];
