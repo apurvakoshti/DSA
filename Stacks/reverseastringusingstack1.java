@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class reverseastringusingstack {
+public class reverseastringusingstack1 {
     
     // Function to push a character at the bottom of the stack
     public static void pushAtBottom(Stack<Character> s, char data) {
