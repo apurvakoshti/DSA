@@ -34,9 +34,9 @@ public class quicksort {
         }
         //place for pivot
         i++;
-        int temp=pivot;
-        arr[ei]=arr[i];
-        arr[i]=temp;
+        int temp=arr[i];
+        arr[i]=arr[ei];
+        arr[ei]=temp;
 
         return i;
 
